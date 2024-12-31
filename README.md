@@ -1,4 +1,4 @@
-# Expense_Tracker_PythonProject
+# Expense Tracker PythonProject
 An app to track income and expenses.
 
 # Expense Tracker
