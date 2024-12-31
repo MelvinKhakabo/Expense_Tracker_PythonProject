@@ -10,3 +10,7 @@ Add transactions with details (income or expense, amount, category, date).
 View transaction history.
 Calculate total balance.
 Filter transactions by category or date range.
+
+## How To Use
+Run the file using python:
+python expenses.py
